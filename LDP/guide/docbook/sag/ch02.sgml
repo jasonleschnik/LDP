@@ -23,7 +23,7 @@
 	<secondary>overview</secondary></indexterm>is the heart of the operating 
 	system.  In fact, it is often mistakenly considered to be the 
 	operating system itself, but it is not.  An operating system provides 
-	provides many more services than a plain kernel.</para>
+	many more services than a plain kernel.</para>
 
 	<para>It keeps track of files on the disk, starts programs and runs 
 	them concurrently, assigns memory and other resources to various
